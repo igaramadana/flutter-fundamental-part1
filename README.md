@@ -6,7 +6,7 @@
 **Kelas:** SIB 3C  
 **No Absen:** 15
 
-**Repository:** [flutter-fundamental-part1](https://github.com/aqwenaaa/flutter-fundamental-part1.git)
+**Repository:** [flutter-fundamental-part1](https://github.com/igaramadana/flutter-fundamental-part1.git)
 
 ---
 
